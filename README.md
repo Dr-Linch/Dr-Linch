@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello mezovut, Nikolay, I am a junior python developer.
 
-<!--
-**Dr-Linch/Dr-Linch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Briefly about me:<h2>
+Additional education: I completed development courses in python (Django).
 
-Here are some ideas to get you started:
+<h2>My work experience:<h2>
+I participated in the development of a non-profit project designed to help those in need find housing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition, I carry out orders for the development of parsers and telegram bots, i also take orders for the development of web applications using Django and DRF on the freelance platforms Kwork and FL.ru.
+
+
+<h2>In my work I use the following technologies:<h2>
+
+python v3, Django, Django Rest Framework, aiogram, BI4, Scrappy, aiohttp,
